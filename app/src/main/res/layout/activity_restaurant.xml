@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#148e73"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".RestaurantActivity">
+
+
+    <Button
+        android:id="@+id/parjotonButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/parjoton_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+
+    <Button
+        android:id="@+id/northButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/north_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+    <Button
+        android:id="@+id/aharButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ahar_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+    <Button
+        android:id="@+id/grandButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/grand_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+    <Button
+        android:id="@+id/shahButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shah_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+    <Button
+
+        android:id="@+id/cityButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/city_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+
+
+</LinearLayout>

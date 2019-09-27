@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#148e73"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".ProfileActivity">
+
+
+    <Button
+        android:id="@+id/tistaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tista_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:id="@+id/tajhatButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tajhat_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:id="@+id/mohipurButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mohipur_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:id="@+id/residenceButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/residence_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:id="@+id/zooButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/zoo_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:id="@+id/proyasButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/proyas_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:id="@+id/vinnyaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vinnya_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+
+</LinearLayout>

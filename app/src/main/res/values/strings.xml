@@ -1,0 +1,144 @@
+<resources>
+
+    <string name="app_name">Rangpur Tour Guide</string>
+    <string name="historical_button">Historical and Visisting Places</string>
+    <string name="restaursnt_button">Restaurants and Hotel</string>
+    <string name="tista_button">Tista Bridge</string>
+    <string name="tajhat_button">Tajhat Palace</string>
+    <string name="mohipur_button">Mohipur Ghat</string>
+    <string name="proyas_button">Proyas Park</string>
+    <string name="residence_button">Residence Of Begum Rokeya</string>
+    <string name="vinnya_button">Vinnya Jagat</string>
+    <string name="zoo_button">Rangpur Zoo</string>
+    <string name="grand_button">Hotel Grand Palace</string>
+    <string name="parjoton_button">Parjoton Motel</string>
+    <string name="north_button">North View Hotel</string>
+    <string name="ahar_button">Ahar Hotel and Restaurant</string>
+    <string name="shah_button">Hotel Shah Amanat</string>
+    <string name="city_button">Hotel City View</string>
+    <string name="title_text">This is a Title</string>"
+    <string name="message_text">Do you want to exit? </string>
+
+    <string name="tajhat_text">
+
+        Details of Tajhat.
+
+
+    </string>
+
+    <string name="tista_text">
+
+        Details of Tista.
+
+
+
+    </string>
+
+    <string name="mohipur_text">
+
+        Details of Mohipur.
+
+
+
+    </string>
+
+    <string name="residence_text">
+
+        Details of Residence of Begum Rokeya.
+
+
+
+    </string>
+
+
+    <string name="zoo_text">
+
+        Details of Rangpur Zoo.
+
+
+
+    </string>
+
+
+    <string name="proyas_text">
+
+        Details of Proyas Park.
+
+
+
+    </string>
+
+
+    <string name="vinnya_text">
+
+        Details of Vinno Jogot.
+
+
+
+    </string>
+
+    <string name="parjoton_text">
+
+        Details of Parjoton Motel.
+
+
+
+    </string>
+
+
+
+    <string name="northview_text">
+
+    Details of Hotel North View.
+
+
+     </string>
+
+    <string name="grandpalace_text">
+
+        Details of Grand Palace.
+
+
+
+    </string>
+
+    <string name="aharhotel_text">
+
+        Details of Ahar Hotel and Restaurant .
+
+
+
+    </string>
+
+
+
+    <string name="shahamanat_text">
+
+        Details of Shah Amanat .
+
+
+
+    </string>
+
+    <string name="cityview_text">
+
+        Details of City View Hotel .
+
+
+
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
